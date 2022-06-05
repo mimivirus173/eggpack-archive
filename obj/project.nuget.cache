@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nyzZxeUwW6DV0iJknK0YMafjQgTof81FEupmDzr6s0Em3B5ES9coY7rxDbrjQGNOIFpYWPt3u1jc043zGjZbuQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\woods\\OneDrive\\Start Items\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\eggpack\\eggpack.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\woods\\.nuget\\packages\\tmodloader.codeassist\\0.1.3\\tmodloader.codeassist.0.1.3.nupkg.sha512"
+  ],
+  "logs": []
+}
